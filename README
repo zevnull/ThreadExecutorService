@@ -1,1 +1,2 @@
-This file was created by IntelliJ IDEA 12.1.4 for binding GitHub repository
+Пример запуска 10 потоков при помощи ExecutorService
+и вывод неудачных трасферов,каждую секунду, при помощи ScheduleExucutorService
